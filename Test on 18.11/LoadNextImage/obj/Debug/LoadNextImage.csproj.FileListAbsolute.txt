@@ -1,0 +1,17 @@
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\LoadNextImage.exe.config
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\LoadNextImage.exe
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\LoadNextImage.pdb
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\halcondotnet.dll
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\halcondotnet.xml
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.csprojAssemblyReference.cache
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.Form1.resources
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.Properties.Resources.resources
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.csproj.GenerateResource.cache
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.csproj.CoreCompileInputs.cache
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.csproj.CopyComplete
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.exe
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\obj\Debug\LoadNextImage.pdb
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Dropbox\Project Files\HALCON\HALCON with C#\Test on 18.11\LoadNextImage\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
